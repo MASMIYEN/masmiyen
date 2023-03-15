@@ -1,6 +1,6 @@
-<p style="text-align:center"><span style="font-size:18px">&nbsp;Hi there, I&#39;m Marouane Asmiyen 👋</span></p>
+<h1 align="center">Hi there, I&#39;m Marouane Asmiyen 👋</h1>
 
-<p style="text-align:center"><span style="font-size:12px">A developer from Morocco :morocco:&nbsp;</span></p>
+<h3 align="center">A developer from Morocco :morocco: </h3>
 
 <p style="text-align:center"><img alt="MASMIYEN" src="https://komarev.com/ghpvc/?username=MASMIYEN&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="float:left" /></p>
 
