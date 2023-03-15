@@ -47,3 +47,7 @@
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![MASMIYEN's github stats](https://github-readme-stats.vercel.app/api?username=MASMIYEN&show_icons=true&theme=dracula)
