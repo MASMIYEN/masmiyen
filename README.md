@@ -1,4 +1,4 @@
-<h1 align="center"><p><img alt="" src="https://raw.githubusercontent.com/MASMIYEN/masmiyen/db586734173d5bebff0b9aab7aa2a85a4c072736/logo-twil.svg" style="height:91px; width:300px" /></p></h1>
+<h1 align="center"><p><img alt="" src="https://github.com/MASMIYEN/masmiyen/blob/master/LONG%20LOGO%20MASMIYEN.png" style="height:91px; width:300px" /></p></h1>
 <h2 align="center">Hi there, I&#39;m Marouane Asmiyen 👋</h2>
 <h3 align="center">A developer from Morocco :morocco:</h3>
 
