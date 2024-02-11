@@ -45,7 +45,7 @@ https://linktr.ee/MAsmiyen
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><a href="http://masmiyen.github.io"><span style="color:#16a085"><span style="font-size:18px"><strong>My portfolio&#39;s link&nbsp;</strong></span></span></a></p>
+<p style="text-align:center"><a href="http://masmiyen.dev"><span style="color:#16a085"><span style="font-size:18px"><strong>My portfolio&#39;s link&nbsp;</strong></span></span></a></p>
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
